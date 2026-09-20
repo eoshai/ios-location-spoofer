@@ -38,7 +38,7 @@ Você escolhe um ponto no mapa (ou busca por endereço/coordenadas), clica em **
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/SEU_USUARIO/ios-location-spoofer.git
+git clone https://github.com/eoshai/ios-location-spoofer.git
 cd ios-location-spoofer
 
 # 2. (Recomendado) Crie um ambiente virtual
@@ -128,4 +128,4 @@ O servidor escuta apenas em `127.0.0.1` (somente sua máquina).
 
 ## 📄 Licença
 
-Distribuído sob a licença MIT. Veja o arquivo `LICENSE` (adicione um pelo GitHub em **Add file → Create new file → LICENSE**, que oferece modelos prontos).
+Distribuído sob a licença MIT. Veja o arquivo `LICENSE`.
